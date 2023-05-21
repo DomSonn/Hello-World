@@ -1,7 +1,7 @@
 """
 Script to implement buttons for JCAM
 
-JCAM is an RPi powered cortable camera that uses the PiCamera.
+JCAM is an RPi powered portable camera that uses the PiCamera.
 The unit has buttons on the outside of a custom built housing
 that turn the device on and off and start and stop the Image_Capture.py script.
 There is also a neopixel ring on the front which can be turned on and off with 
